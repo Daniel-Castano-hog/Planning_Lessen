@@ -22,7 +22,7 @@ git push -u origin main
 <br>
 
 ## 🚀 Instructies om te pushen naar mijn repository
-<p>Directory : "C:\Users\danie\Desktop\School\1ste jaar\2_Planning-Lessen"</p>
+<p>Directory : "C:\Users\danie\Desktop\School\1ste jaar\1_Planning-Lessen"</p>
 
 ### `Eerste` keer:
 ```bash
